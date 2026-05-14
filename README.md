@@ -7,7 +7,7 @@ This is a simple QR code component built with HTML and CSS
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -17,9 +17,9 @@ This is a simple QR code component built with HTML and CSS
 ## Built with
 
 - HTML5
-- CSS custom properties
+- CSS 
 - Flexbox
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/yourusername
+- Frontend Mentor - https://www.frontendmentor.io/profile/kenwoodly
