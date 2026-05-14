@@ -12,7 +12,7 @@ This is a simple QR code component built with HTML and CSS
 ### Links
 
 - Solution URL: https://github.com/kenwoodly/project-qrcode
-- Live Site URL: https://your-live-url.com
+- Live Site URL: https://kenwoodly.github.io/project-qrcode/
 
 ## Built with
 
